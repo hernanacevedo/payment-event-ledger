@@ -1,0 +1,9 @@
+[project]
+name = "payment-event-ledger"
+version = "0.1.0"
+description = "Durable payment event journal and operational reports"
+requires-python = ">=3.12"
+dependencies = []
+
+[tool.uv]
+package = false

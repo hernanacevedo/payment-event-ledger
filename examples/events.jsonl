@@ -1,0 +1,2 @@
+{"tenant": "shop", "provider": "bank", "event_id": "cap-1", "payment_id": "pay-1", "kind": "capture", "amount": 10000, "currency": "ARS"}
+{"tenant": "shop", "provider": "bank", "event_id": "ref-1", "payment_id": "pay-1", "kind": "refund", "amount": 2500, "currency": "ARS", "parent_id": "cap-1"}
